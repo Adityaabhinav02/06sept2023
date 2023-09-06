@@ -1,0 +1,12 @@
+{
+	"name": "Pl_para",
+	"properties": {
+		"parameters": {
+			"account_name": {
+				"type": "string",
+				"defaultValue": "ad-8675"
+			}
+		},
+		"annotations": []
+	}
+}
